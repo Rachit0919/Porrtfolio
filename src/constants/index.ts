@@ -7,7 +7,7 @@ import type {
 } from "../types";
 
 import {
-  
+  YoutubeClone,
   backend,
   mobile,
   web,
@@ -241,7 +241,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: YoutubeClone,
     sourceCodeLink: "https://github.com/Rachit0919/Youtube-Clone-API",
   },
   // {

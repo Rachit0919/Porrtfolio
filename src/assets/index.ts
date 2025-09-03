@@ -30,6 +30,8 @@ import BlogApp from "./BlogApp.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import YoutubeClone from './YoutubeClone.png' 
+
 export {
   logo,
   backend,
@@ -59,4 +61,5 @@ export {
   BlogApp,
   jobit,
   tripguide,
+  YoutubeClone
 };
