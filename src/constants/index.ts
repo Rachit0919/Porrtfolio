@@ -26,7 +26,7 @@ import {
   
   BlogApp,
   jobit,
-  tripguide,
+  
   
 } from "../assets";
 
