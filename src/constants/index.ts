@@ -25,7 +25,7 @@ import {
   docker,
   
   BlogApp,
-  jobit,
+  
   
   
 } from "../assets";
