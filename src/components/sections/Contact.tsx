@@ -49,7 +49,7 @@ const Contact = () => {
           to_email: config.html.email,
           message: form.message,
         },
-        emailjsConfig.accessToken
+        emailjsConfig.publicKey
       )
       .then(
         () => {
